@@ -3,6 +3,10 @@
 ## Tools:
 **Netcat(nc)** – It’s a utility for reading/writing data across network connections. This acts as both server and client in this demonstration
 **Tcpdump** - It’s a packet capture tool for monitoring network traffic.
+
+## Visual Representation:
+![image](https://github.com/user-attachments/assets/e4131118-cabb-461c-98c4-ddcd19a06b0f)  
+
 ## Set Up:
 **Environment** : This was demonstrated using a single Ubuntu VM acting as both server and client.
 Below, you can see the ‘’nc’ is used as a server listening on the 0.0.0.0 address.
