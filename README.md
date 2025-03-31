@@ -22,7 +22,7 @@ Below, you can see the ‘’nc’ is used as a server listening on the 0.0.0.0 
 **Network Capture** :  
 ![image](https://github.com/user-attachments/assets/a971fe67-0115-408c-bf8c-8d5b0315ce5a)  
 
-### Procedure
+## Procedure
 
 1.	The server first opens a connection to listen to a client intending to communicate.
   a.	Command: nc –ivp 5050 
